@@ -1,0 +1,14 @@
+# scalar Date
+# scalar JSON
+
+type Query {
+  _: Boolean
+}
+
+type Mutation {
+  _: Boolean
+}
+
+type Subscription {
+  _: Boolean
+}
